@@ -293,11 +293,3 @@ Fun fact **Our brain is constantly eating itself.**
     alt="sonisumit7904"
   />
 </p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sonisumit7904&"
-    alt="sonisumit7904"
-  />
-</p>
