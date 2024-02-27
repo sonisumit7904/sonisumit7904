@@ -92,15 +92,6 @@ Fun fact **Our brain is constantly eating itself.**
       height="40"
       width="40"
   /></a>
-  <a href="https://www.codechef.com/users/sonisumit1603" target="blank"
-    ><img
-    style="background-color: white; border-radius:50%; padding: 2px;"
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-      alt="sonisumit1603"
-      height="30"
-      width="30"
-  /></a>
   <a href="https://www.leetcode.com/sonisumit7904/" target="blank"
     ><img
       align="center"
@@ -117,13 +108,13 @@ Fun fact **Our brain is constantly eating itself.**
       height="40"
       width="40"
   /></a>
-  <a href="https://github.com/sonisumit7904" target="blank"
+  <a href="https://www.codechef.com/users/sonisumit1603" target="blank"
     ><img
       align="center"
-      src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
-      alt="sonisumit7904/"
-      height="30"
-      width="30"
+      src="https://cdn.codechef.com/images/cc-logo.svg"
+      alt="sonisumit1603"
+      height="60"
+      width="60"
   /></a>
 </p>
 
