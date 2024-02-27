@@ -94,11 +94,12 @@ Fun fact **Our brain is constantly eating itself.**
   /></a>
   <a href="https://www.codechef.com/users/sonisumit1603" target="blank"
     ><img
+    style="background-color: white; border-radius:50%; padding: 2px;"
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
       alt="sonisumit1603"
-      height="40"
-      width="40"
+      height="30"
+      width="30"
   /></a>
   <a href="https://www.leetcode.com/sonisumit7904/" target="blank"
     ><img
