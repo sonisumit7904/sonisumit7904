@@ -95,9 +95,11 @@ All of my projects are available at
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" alt="Face with Tears of Joy" width="25" height="25" /> **Random Dev Meme**
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+-->
 
 <!-- <p>
   <img
